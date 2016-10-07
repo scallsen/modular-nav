@@ -48,3 +48,11 @@ a:hover {
   background-color: #0074d9;
   color: #fff;
 }
+
+@media only screen and (min-width: 25em) {
+
+  h1 {
+    text-align: left;
+  }
+
+}
